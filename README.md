@@ -1,9 +1,6 @@
 ### Olá! Eu sou o Luiz Filipe 👋
 <div>
-    <a href="https://github.com/LuizFilipeDev360">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuizFilipeDev360&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/></a>
-    <a href="https://github.com/LuizFilipeDev360">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=LuizFilipeDev360&layout-compact&langs_count=16&theme=dracula"/></a>
+
 </div>
 
 <div style="display: inline_block"><br>
